@@ -31,6 +31,10 @@ O diagrama deve conter rótulos suficientes para identificar a função dos comp
 avaliada pela quantidade de serviços utilizados, mas pela coerência entre as características
 do cenário e as decisões representadas.
 
+Para seu auxílio na hora de desenhar o diagrama, utilize o guia de ícones AWS para o Draw.io:
+
+https://henriqjmelo.github.io/tcc2/
+
 **Tempo sugerido: 45 minutos.**
 
 ---
