@@ -8,10 +8,13 @@ Antes de iniciar, observe o diagrama abaixo para entender o **formato esperado**
 
 ---
 
+Antes de começar a prática, preciso que você responda esse questionário:
+🔗 **[https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ZIEqXraHC0OsawjWIp5wWWFl4RM2c-RAnVcYxX2hlwpUNFY0QkNVRDdLWDgzR0RLUTM1MFBLQVBZSS4u]**
+
 ## Instruções ao participante
 
 Você deve elaborar um diagrama de arquitetura para o sistema descrito abaixo usando o
-Draw.io/diagrams.net. O diagrama deve representar os principais componentes, as relações
+Draw.io. O diagrama deve representar os principais componentes, as relações
 entre eles e o fluxo principal de dados. Utilize os ícones AWS disponíveis no Draw.io quando
 considerar que eles representam adequadamente a solução.
 
