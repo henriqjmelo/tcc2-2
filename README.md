@@ -97,7 +97,7 @@ Renomeie seus arquivos colocando o número de participante que você recebeu no 
 
 - `participante_XX.png`
 
-Em seguida, envie o arquivo deito no email abaixo:
+Em seguida, envie o arquivo feito no email abaixo:
 
 🔗 **henriquejardimm@gmail.com**
 
