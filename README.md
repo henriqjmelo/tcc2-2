@@ -9,6 +9,7 @@ Antes de iniciar, observe o diagrama abaixo para entender o **formato esperado**
 ---
 
 Antes de começar a prática, preciso que você responda esse questionário:
+
 🔗 **[QUESTIONÁRIO PRÉ-TESTE](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ZIEqXraHC0OsawjWIp5wWWFl4RM2c-RAnVcYxX2hlwpUNFY0QkNVRDdLWDgzR0RLUTM1MFBLQVBZSS4u)**
 
 ## Instruções ao participante
