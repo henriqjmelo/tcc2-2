@@ -95,12 +95,11 @@ longe de ser constante ao longo do mês.
 
 Renomeie seus arquivos colocando o número de participante que você recebeu no lugar de `XX`:
 
-- `participante_XX.drawio`
 - `participante_XX.png`
 
-Em seguida, faça o upload de **ambos os arquivos** na pasta abaixo:
+Em seguida, envie o arquivo deito no email abaixo:
 
-🔗 **[LINK DO GOOGLE DRIVE]**
+🔗 **henriquejardimm@gmail.com**
 
 ---
 
@@ -108,5 +107,5 @@ Em seguida, faça o upload de **ambos os arquivos** na pasta abaixo:
 
 Após concluir o diagrama e fazer o upload, preencha o formulário a seguir:
 
-🔗 **[LINK DO GOOGLE FORMS]**
+🔗 **[QUESTIONÁRIO PÓS-TESTE](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=ZIEqXraHC0OsawjWIp5wWWFl4RM2c-RAnVcYxX2hlwpUMDA2T0dYUjhOQjdRRTAzMFNORkFXUUFLRi4u)**
 
